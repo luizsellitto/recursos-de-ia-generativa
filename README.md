@@ -1,6 +1,6 @@
 # Laboratório: Explorando Recursos de IA Generativa com Microsoft Copilot e Azure OpenAI
 
-Neste laboratório, experimentamos as diversas funcionalidades oferecidas pelo Microsoft Copilot e pelo Azure OpenAI, demonstrando como as soluções de IA generativa podem ser aplicadas em tarefas cotidianas, desde a criação de conteúdo até o auxílio em processos técnicos.
+Neste laboratório, experimentamos as diversas funcionalidades oferecidas pelo Microsoft Copilot.
 
 O Microsoft Copilot não se limita a responder perguntas: ele é um assistente inteligente capaz de aprender com as interações, evoluir ao longo do tempo e oferecer sugestões mais precisas e contextualizadas. Sua aplicação é bastante ampla, permitindo:
 
